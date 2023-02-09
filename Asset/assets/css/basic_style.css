@@ -1,0 +1,20 @@
+.anychart-credits-text, .anychart-credits-logo{
+    display: none;
+}
+.fr-fir{
+    float: right;
+}
+.fr-fil{
+    float: left;
+}
+.fr-fic, .fr-dib {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: 50%;
+}
+a{
+    text-decoration: none;
+    font-weight: 700;
+}
